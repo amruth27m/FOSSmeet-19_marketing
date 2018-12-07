@@ -382,16 +382,15 @@ figure {
     }
     .img-spacer{
         margin-top: -3vh;
-        margin-bottom: 4.0vh;
     }
     .titletext{
-        margin-top: -5vh;
+        margin-top: 0vh;
     }
     .date{
-        margin-top: 3vh;
+        margin-top: 1vh;
     }
     .logo{
-        
+        margin-top: 0vh;
     }
 }
 
