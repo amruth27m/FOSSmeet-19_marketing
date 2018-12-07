@@ -373,6 +373,13 @@ figure {
     .hidek {
     display: none;
   }
+    .spacer{
+        margin-top: 40px;
+    }
+    .h-spacer{
+        margin-top: -15px;
+        margin-bottom: 20px;
+    }
 }
 
 
