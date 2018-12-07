@@ -302,7 +302,9 @@ figure {
     font-size: 15px;
 }
 
-
+.center{
+    text-align: center;
+}
 
 .date {
     font-size: 1.5em;
