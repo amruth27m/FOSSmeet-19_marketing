@@ -1,3 +1,5 @@
+
+
 .mainfont {
     /*    font-family: 'Noto Sans', sans-serif;*/
     font-family: 'Montserrat', sans-serif;
@@ -170,7 +172,10 @@ p {
 .cover {
     background: #fcfcfc;
 }
-
+.no-padding{
+    margin-top: -2.0rem;
+    margin-bottom: 1.0rem;
+}
 
 .intro {
     background: #f5f5f5;
@@ -328,3 +333,4 @@ figure {
 .sponsorimgit {
      max-height: 100px!important;
 }
+
