@@ -381,10 +381,17 @@ figure {
         margin-bottom: 3.0vh;
     }
     .img-spacer{
+        margin-top: -3vh;
         margin-bottom: 4.0vh;
     }
     .titletext{
-        margin-top: -4vh;
+        margin-top: -5vh;
+    }
+    .date{
+        margin-top: 3vh;
+    }
+    .logo{
+        
     }
 }
 
