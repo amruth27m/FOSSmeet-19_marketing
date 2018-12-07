@@ -374,7 +374,7 @@ figure {
     display: none;
   }
     .spacer{
-        margin-top: 40px;
+        margin-top: 7vh;
     }
     .h-spacer{
         margin-top: -4vh;
@@ -382,6 +382,9 @@ figure {
     }
     .img-spacer{
         margin-bottom: 4.0vh;
+    }
+    .titletext{
+        margin-top: -3vh;
     }
 }
 
