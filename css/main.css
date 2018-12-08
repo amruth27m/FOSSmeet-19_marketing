@@ -367,6 +367,14 @@ figure {
     .footer-social {
     display: none;
   }
+    .titletext{
+    }
+    .date{
+        margin-top: 2vh;
+    }
+    .logo{
+        margin-top: 2vh;
+    }
 
 }
 
