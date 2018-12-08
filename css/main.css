@@ -371,6 +371,10 @@ figure {
 }
 
 @media screen and (max-width: 767px) {
+    .brand-name{
+        position: fixed;
+        left: 31%;
+    }
     .hidek {
     display: none;
   }
