@@ -17,7 +17,7 @@
 #myNavbar ul li a:focus {
     background-image: linear-gradient(to bottom right,#34e9c0,#3df698 );
     /*    background-color: #009fb7;*/
-    opacity: 1.0;
+    opacity: 0.9;
 }
 
 .navbar-brand {
@@ -91,9 +91,9 @@
 /*,.active*/
 
 #myNavbar ul li a:hover {
-    background-color: #009fb7;
+    background-color: #43dda2;
     /*    background-color: #5fcfe0;*/
-    color: #ffb59a;
+    color: #c5fff2;
 }
 
 #myNavbar ul li a,
