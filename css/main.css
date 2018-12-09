@@ -91,9 +91,9 @@
 /*,.active*/
 
 #myNavbar ul li a:hover {
-    background-color: #dd8854;
+    background-color: #f7ad37;
     /*    background-color: #5fcfe0;*/
-    color: #fcd588;
+    color: #fcd4a8;
 }
 
 #myNavbar ul li a,
@@ -380,6 +380,9 @@ figure {
     .imger{
         margin-left: 10%;
     }
+    .logos{
+        margin-bottom: -22px;
+    }
 
 }
 
@@ -410,6 +413,10 @@ figure {
     }
     .logo{
         margin-top: 0vh;
+    }
+    .navbar {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
 
