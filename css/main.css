@@ -384,8 +384,12 @@ figure {
         margin-bottom: -22px
     }
     .navbar{
-        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 2.5px;
+        padding-bottom: 2.5px;
     }
+    
 }
 
 @media screen and (max-width: 767px) {
