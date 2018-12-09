@@ -383,7 +383,9 @@ figure {
     .logos{
         margin-bottom: -22px
     }
-
+    .navbar{
+        padding: 10px;
+    }
 }
 
 @media screen and (max-width: 767px) {
