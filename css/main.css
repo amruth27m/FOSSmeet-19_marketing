@@ -15,7 +15,7 @@
 
 .navbar-color,
 #myNavbar ul li a:focus {
-    background-image: linear-gradient(to bottom right,#c64a0a,#e8a105 );
+    background-image: linear-gradient(to bottom right,#fe9352,#febf44 );
     /*    background-color: #009fb7;*/
     opacity: 0.9;
 }
@@ -54,7 +54,7 @@
 /*    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);*/
     box-shadow: 5px 5px 10px #c4c4c4;
     border-radius: 5px;
-    background-image: linear-gradient(to right,#c64a0a,#e8a105, #c64a0a)!important;
+    background-image: linear-gradient(to right,#fe9352,#febf44, #fe9352)!important;
 }
 
 .gradbtn:hover {
@@ -91,9 +91,9 @@
 /*,.active*/
 
 #myNavbar ul li a:hover {
-    background-color: #43dda2;
+    background-color: #dd8854;
     /*    background-color: #5fcfe0;*/
-    color: #c5fff2;
+    color: #fcd588;
 }
 
 #myNavbar ul li a,
@@ -166,16 +166,16 @@ p {
 }
 
 .about {
-    background: #ffddcb;
+    background: #e8c0a7;
 }
 
 .speakers {
-    background: #cc8058;
+    background: #ed8f55;
     color: white;
 }
 
 .contact {
-    background: #c76634;
+    background: #cc7845;
     color: white;
 }
 
@@ -376,6 +376,9 @@ figure {
     }
     .logo{
         margin-top: 2vh;
+    }
+    .imger{
+        margin-left: 10%;
     }
 
 }
