@@ -15,8 +15,8 @@
 
 .navbar-color,
 #myNavbar ul li a:focus {
-    background-image: linear-gradient(to bottom right,#fe9352,#febf44 );
-    /*    background-color: #009fb7;*/
+    /*background-image: linear-gradient(to bottom right,#fe9352,#febf44 );*/
+        background-color: #fd7d00;
     opacity: 0.9;
 }
 
@@ -136,7 +136,7 @@ body {
 }
 
 .bodyback {
-    background-color: #ebebeb;
+    background-color: #dbdbdb;
 }
 
 
@@ -154,7 +154,8 @@ p {
 */
 
 .container {
-    margin-top: 44px;
+    width: 93% !important;
+    margin-top: 55px;
     padding: 38px;
     box-shadow: 10px 10px 10px #c4c4c4;
 }
@@ -170,17 +171,17 @@ p {
 }
 
 .speakers {
-    background: #ed8f55;
+    background: #fd7d00;
     color: white;
 }
 
 .contact {
-    background: #e6732d;
+    background: #fd7d00;
     color: white;
 }
 
 .cover {
-    background: #fcfcfc;
+    background: #fafafa;
 }
 .no-padding{
     margin-top: -2.0rem;
